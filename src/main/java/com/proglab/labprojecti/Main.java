@@ -57,7 +57,7 @@ public class Main {
                 under30.add(pessoa);
             }
         }
-        
+        //Condicional if/else para checar se há ou não há alguém com menos de 30
         if (under30.isEmpty()){
             System.out.println("Não há pessoas com menos de 30 anos");
         }
